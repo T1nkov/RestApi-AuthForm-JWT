@@ -1,0 +1,29 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 92.5px
+}
+
+.img {
+    background-image: url('./assets/Success.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 474px;
+    height: 220px;
+}
+
+.wrapper h1 {
+    font: 700 20px Inter;
+    color: #000000;
+
+}
+
+.wrapper p {
+    font: 400 10px Inter;
+    color: #000000;
+    width: 299px;
+    text-align: center;
+}

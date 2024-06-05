@@ -1,0 +1,11 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    margin: 24px 0;
+   
+}
+
+.wrapper .btn {
+    color: black;
+    font: 400 16px Inter;
+}

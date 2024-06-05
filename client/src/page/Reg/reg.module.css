@@ -1,0 +1,39 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-top: 100.5px
+};
+
+.wrapper h1{
+font: 500 23px Inter;
+color: #12141A;
+}
+
+
+.wrapper p{
+font: 500 14px Inter;
+color: #606778;
+}
+.name_surname{
+    display: flex;
+    justify-content: space-between;
+}
+.name,.surname{
+    width: 49%;
+}
+.email_pwd {
+    width: 100%;
+    color: #7B8499;
+
+}
+
+.button{
+  margin-left: 685px;  
+}
+
+.wrapper .link p{
+    text-align: end; 
+    color: #7B8499;
+
+}
